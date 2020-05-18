@@ -1,0 +1,13 @@
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.exe
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.deps.json
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.runtimeconfig.json
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.runtimeconfig.dev.json
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.dll
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\bin\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.pdb
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\obj\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\obj\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.AssemblyInfoInputs.cache
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\obj\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.AssemblyInfo.cs
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\obj\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.dll
+C:\Users\avis_\source\repos\BradyPlcCodeChallenge\BradyPlcCodeChallenge\obj\Debug\netcoreapp2.0\win10-x64\BradyPlcCodeChallenge.pdb
